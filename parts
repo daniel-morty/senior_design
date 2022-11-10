@@ -1,1 +1,22 @@
-This is the parts list
+car
+============================================================
+Microcontroller:
+	esp32
+	esp32c3
+	esp8266
+
+
+
+remote
+============================================================
+Microcontroller:
+	esp32
+	esp32c3
+	esp8266
+
+scoreboard
+============================================================
+Microcontroller:
+	esp32
+	esp32c3
+	esp8266
